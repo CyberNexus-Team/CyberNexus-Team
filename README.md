@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="URL_DEL_TUO_LOGO_QUI" alt="Logo del Team" width="150"/>
+  <img src="(https://github.com/CyberNexus-Team/CyberNexus-Team/blob/main/Logo%20Team.jpg?raw=true)" alt="Logo del Team" width="150"/>
 </p>
 
-<h1 align="center">Benvenuti nel profilo di [NOME TEAM]</h1>
+<h1 align="center">Benvenuti nel profilo di CyberNexus</h1>
 
 <!--
 **CyberNexus-Team/CyberNexus-Team** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
