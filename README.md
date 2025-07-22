@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <img src="URL_DEL_TUO_LOGO_QUI" alt="Logo del Team" width="150"/>
+</p>
+
+<h1 align="center">Benvenuti nel profilo di [NOME TEAM]</h1>
 
 <!--
 **CyberNexus-Team/CyberNexus-Team** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
