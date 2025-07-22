@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/CyberNexus-Team/CyberNexus-Team/blob/main/Logo.png?raw=true" alt="Logo del Team" width="350"/>
+  <img src="https://github.com/CyberNexus-Team/CyberNexus-Team/blob/main/Logo.png?raw=true" alt="Logo del Team" width="550"/>
 </p>
 
 <h1 align="center">Benvenuti nel profilo di CyberNexus</h1>
