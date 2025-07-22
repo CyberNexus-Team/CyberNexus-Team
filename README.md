@@ -1,53 +1,47 @@
-<!-- 
-=============================================================================================================================
- BENVENUTO/A NELLA VERSIONE "BASH STYLE" - VERSIONE CORRETTA
-=============================================================================================================================
- L'istruzione `bash` dopo ``` è fondamentale per attivare i colori. Assicurati che sia scritta correttamente.
-=============================================================================================================================== 
--->
-
-<!-- Sostituisci l'URL con il link alla tua immagine logo/banner che hai già caricato -->
 <p align="center">
-  <img src="URL_DEL_TUO_LOGO_O_BANNER" alt="Logo Team" width="400"/>
+  <!-- SOSTITUISCI CON L'URL DEL TUO LOGO CARICATO SU GITHUB -->
+  <img src="URL_DEL_TUO_LOGO" alt="Logo CyberNexus-Team" width="400"/>
 </p>
 <h1 align="center">CyberNexus-Team</h1>
 <p align="center">
-  <em>Esploratori del codice, guardiani della rete.</em>
+  <i>Esploratori del codice, guardiani della rete.</i>
 </p>
 
-<!-- =============================================================================== -->
-<!-- ATTENZIONE: La riga qui sotto è quella che attiva la magia dei colori.         -->
-<!-- Deve essere ESATTAMENTE ```bash                                                 -->
-<!-- =============================================================================== -->
 ```bash
-# Esegui il comando per visualizzare la missione del team
-$ cat ./mission.txt
+# ==========================================================
+#              BENVENUTO NEL NOSTRO TERMINALE
+# ==========================================================
 
-> La nostra missione è contribuire attivamente alla community della cybersecurity
-> attraverso la ricerca, lo sviluppo di tool open-source e la condivisione
-> di conoscenza per un mondo digitale più sicuro.
+# Visualizza la nostra missione
+$ cat ./docs/mission.txt
 
-# Elenca i progetti principali del team
-$ ls ./projects
+# La nostra missione è contribuire attivamente alla community della 
+# cybersecurity attraverso la ricerca, lo sviluppo di tool open-source
+# e la condivisione di conoscenza per un mondo digitale più sicuro.
 
-GuardianScanner   ThreatMatrix-Visualizer   Phishing-Detector
+# Elenca i nostri progetti attivi
+$ ls -l ./projects
 
-# Visualizza i membri del team
+-rwx-rw-r-- 1 nexus staff 1.5K Jul 22 18:00 GuardianScanner
+-rwx-rw-r-- 1 nexus staff 2.1K Jul 22 18:05 ThreatMatrix-Visualizer
+-rwx-rw-r-- 1 nexus staff 980B Jul 22 18:10 Phishing-Detector
+
+# Incontra i membri del nostro team
 $ ./show_team --all
 
-> Mario Rossi       [Security Analyst]
-> Giulia Bianchi    [Penetration Tester]
-> Luca Verdi        [Incident Responder]
-> Sara Neri         [Cloud Security Engineer]
+> Mario Rossi       | Security Analyst
+> Giulia Bianchi    | Penetration Tester
+> Luca Verdi        | Incident Responder
+> Sara Neri         | Cloud Security Engineer
 
-# Controlla come puoi contribuire
+# Come puoi contribuire?
 $ cat ./CONTRIBUTING.md
 
-> Siamo sempre alla ricerca di collaboratori!
-> 1. Apri una 'Issue' per discutere idee o bug.
-> 2. Proponi le tue modifiche tramite una 'Pull Request'.
+# Siamo sempre alla ricerca di collaboratori!
+# 1. Apri una 'Issue' per discutere idee o bug.
+# 2. Proponi le tue modifiche tramite una 'Pull Request'.
 
-# Contatti e Social Network
+# Resta in contatto con noi
 $ echo $SOCIALS
 
-> LinkedIn   Twitter/X   Website
+> LinkedIn | Twitter/X | Website
