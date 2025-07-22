@@ -1,13 +1,24 @@
-<h1 align="center">Benvenuti nel profilo di CyberNexus</h1>
+<!-- 
+=============================================================================================================================
+ BENVENUTO/A NELLA VERSIONE "BASH STYLE" - VERSIONE CORRETTA
+=============================================================================================================================
+ L'istruzione `bash` dopo ``` è fondamentale per attivare i colori. Assicurati che sia scritta correttamente.
+=============================================================================================================================== 
+-->
 
+<!-- Sostituisci l'URL con il link alla tua immagine logo/banner che hai già caricato -->
 <p align="center">
-  <img src="https://github.com/CyberNexus-Team/CyberNexus-Team/blob/main/Logo.png?raw=true" alt="Logo del Team" width="550"/>
+  <img src="URL_DEL_TUO_LOGO_O_BANNER" alt="Logo Team" width="400"/>
 </p>
-
+<h1 align="center">CyberNexus-Team</h1>
 <p align="center">
   <em>Esploratori del codice, guardiani della rete.</em>
 </p>
 
+<!-- =============================================================================== -->
+<!-- ATTENZIONE: La riga qui sotto è quella che attiva la magia dei colori.         -->
+<!-- Deve essere ESATTAMENTE ```bash                                                 -->
+<!-- =============================================================================== -->
 ```bash
 # Esegui il comando per visualizzare la missione del team
 $ cat ./mission.txt
