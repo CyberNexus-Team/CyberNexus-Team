@@ -4,7 +4,9 @@
   <img src="https://github.com/CyberNexus-Team/CyberNexus-Team/blob/main/Logo.png?raw=true" alt="Logo del Team" width="550"/>
 </p>
 
+## 👋 Chi Siamo
 
+Siamo **CyberNexus**, un team di
 
 <!--
 **CyberNexus-Team/CyberNexus-Team** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
