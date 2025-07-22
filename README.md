@@ -8,7 +8,6 @@
   <em>Esploratori del codice, guardiani della rete.</em>
 </p>
 
-<!-- Inizia qui il blocco di codice con la sintassi 'bash' -->
 ```bash
 # Esegui il comando per visualizzare la missione del team
 $ cat ./mission.txt
