@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/K1T8YCo.png" alt="Header Terminale"/>
-</p>
-
 <h1 align="center">Benvenuti nel profilo di CyberNexus</h1>
 
 <p align="center">
