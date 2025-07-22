@@ -22,19 +22,49 @@
 + per anticipare e neutralizzare le minacce digitali del futuro.
 + Siamo uniti dalla passione, guidati dalla curiosità.
 
-Siamo **CyberNexus**, un team di
+[cyberproject2426@github ~]$ ls -l ./team
 
-<!--
-**CyberNexus-Team/CyberNexus-Team** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ Directory dei membri del team:
++ drwxr-xr-x 2 Mario Rossi     staff 64 Jul 22 10:30 Security_Analyst
++ drwxr-xr-x 2 Giulia Bianchi   staff 64 Jul 22 10:31 Penetration_Tester
++ drwxr-xr-x 2 Luca Verdi       staff 64 Jul 22 10:32 Incident_Responder
++ drwxr-xr-x 2 Sara Neri        staff 64 Jul 22 10:33 Cloud_Security_Engineer
 
-Here are some ideas to get you started:
+[cyberproject2426@github ~]$ ./run --project=GuardianScanner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ ==========================================================
++ # ESECUZIONE PROGETTO: GuardianScanner                   #
++ ==========================================================
++
++ DESCRIZIONE:
++   Tool OSINT leggero per l'analisi passiva di domini e IP.
++   Aggrega dati da fonti multiple per una ricognizione rapida.
++
++ FUNZIONALITÀ PRINCIPALI:
++   - Ricerca sottodomini e record DNS
++   - Estrazione certificati SSL
++   - Scansione porte comuni
++   - Output in formato JSON, CSV, TXT
++
++ STACK TECNOLOGICO:
++   [ Python, Click, requests, dnspython ]
++
++ STATO:
++   [ 🟢 ATTIVO - In sviluppo ]
++
++ Repository: https://github.com/cyberproject2426/interactive-osint-platform
+
+[cyberproject2426@github ~]$ cat ./CONTRIBUTING.md
+
++ Siamo sempre aperti a nuove collaborazioni. Se vuoi contribuire,
++ sei il benvenuto.
++
++ 1. Apri una 'Issue' per discutere di un bug o di una nuova idea.
++ 2. Fai un 'Fork' del repository che ti interessa.
++ 3. Crea una 'Pull Request' con le tue modifiche.
++
++ Ogni contributo è prezioso.
+
+[cyberproject2426@github ~]$ logout
+
++ [Processo completato. Sessione terminata.]
