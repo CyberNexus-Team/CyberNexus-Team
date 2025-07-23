@@ -1,9 +1,8 @@
 <!-- 
 =============================================================================================================================
- VERSIONE FINALE - SEZIONE PROGETTO AGGIORNATA
+ PROFILO COMPLETO - ULTIMA VERSIONE
 =============================================================================================================================
- La sezione "CORE PROJECTS" è stata sostituita con una descrizione dettagliata del progetto "ACTIVE PROJECT" come richiesto.
- Il testo è stato tradotto e formattato per la massima chiarezza.
+ Questa versione include la nuova sezione "INCOMING PROJECTS" e rappresenta la versione finale del profilo del team.
 =============================================================================================================================== 
 -->
 
@@ -90,10 +89,8 @@ We believe in the power of collaboration and shared knowledge. We develop open-s
 ---
 ### ACTIVE PROJECT
 
-<h2 align="center">NOA - N8N OSINT Automation</h2>
-
 <p align="center">
-  <!-- SOSTITUISCI CON L'URL DEL LOGO DEL PROGETTO NOA -->
+  <!-- LOGO PROGETTO NOA -->
   <img src="https://github.com/CyberNexus-Team/CyberNexus-Team/blob/main/Logo%20Definitivo.png?raw=true" alt="NOA Project Logo" width="400"/>
 </p>
 
@@ -106,22 +103,36 @@ NOA (N8N OSINT Automation) is an automated OSINT platform that allows you to per
 
 The system is based on n8n, an open-source automation tool, running on Docker, ensuring a simple and free installation.
 
-#### Key Features
+### Key Features
 *   **Pre-configured Workflow:** Download the repo and import the flow into n8n to get started immediately.
 *   **Local Web Interface:** A Dockerized website communicates with n8n to send search queries.
 *   **Free API Keys:** Simply register with the supported services and enter your keys in the HTTP Request nodes.
 *   **Automated Reports:** Results are sent in a structured format to Google Drive and via email (Gmail).
 
-#### How It Works
+### How It Works
 1.  **Setup:** Download the project from GitHub and run n8n on Docker.
 2.  **Configure:** Set up your API keys in the HTTP Request nodes (for services like Shodan, Google Maps, Twitter, etc.).
 3.  **Connect:** Link your Google Drive and Gmail accounts to receive the reports.
 4.  **Query:** Start the local web interface to enter your search queries.
 5.  **Receive:** Get your results automatically organized in a document.
 
+### Links
+<p>
+  <a href="https://github.com/CyberNexus-Team/NOA"><img src="https://img.shields.io/badge/Repository%20NOA-5A5A5A?style=for-the-badge&logo=github&logoColor=white" alt="Repository NOA"></a>
+   
+  <a href="URL_AL_CANALE_TELEGRAM_DI_NOA"><img src="https://img.shields.io/badge/NOA%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Canale Telegram NOA"></a>
+</p>
+
+---
+### INCOMING PROJECTS
+> → Website OSINT Framework
+>
+> → OSINT Linux Distro
+>
+> → Telegram Community
+
 ---
 ### TECH STACK
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-4CAF50?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
