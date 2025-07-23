@@ -1,13 +1,14 @@
 <!-- 
 =============================================================================================================================
- FINAL VERSION - POSITION SWAP
+ VERSIONE FINALE - BADGE GITHUB UNIFICATO
 =============================================================================================================================
- The positions of the HTML and JavaScript badges have been swapped as requested.
+ La sezione TEAM è stata aggiornata come da richiesta: il badge di GitHub è ora un elemento unico e uniforme
+ per un look più pulito e professionale.
 =============================================================================================================================== 
 -->
 
 <p align="center">
-  <!-- REPLACE WITH THE URL OF YOUR LOGO UPLOADED TO GITHUB -->
+  <!-- URL DEL LOGO GIÀ IMPOSTATO -->
   <img src="https://github.com/CyberNexus-Team/CyberNexus-Team/blob/main/Logo.png?raw=true" alt="CyberNexus-Team Logo" width="650"/>
 </p>
 
@@ -27,39 +28,61 @@ We believe in the power of collaboration and shared knowledge. We develop open-s
 ### TEAM
 
 <!-- 
-Replace all placeholders (URL_..., Name, Role).
+==================================================================================================================
+ SEZIONE TEAM DEFINITIVA - SOSTITUISCI GLI URL DEI PROFILI GITHUB PER OGNI MEMBRO
+==================================================================================================================
 -->
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr align="center">
-    <td>
-      <img src="https://github.com/CyberNexus-Team/CyberNexus-Team/blob/main/AvatarT.jpg?raw=true" width="200" style="border-radius:50%;" alt="Team Member 1 Avatar"/>
+    <!-- MEMBRO 1: OPSEC4T -->
+    <td valign="top">
+      <img src="https://github.com/CyberNexus-Team/CyberNexus-Team/blob/main/AvatarT.jpg?raw=true" width="200" style="border-radius:15px;" alt="OPSEC4T Avatar"/>
       <br>
-      <b>OPSEC4T</b>
+      <img src="https://img.shields.io/badge/OPSEC4T-00B2EE?style=for-the-badge" alt="Nome OPSEC4T"/>
       <br>
       <i>Osint Analyst</i>
+      <br>
+      <a href="URL_PROFILO_GITHUB_DI_OPSEC4T">
+        <img src="https://img.shields.io/badge/GitHub%20Profile-5A5A5A?style=flat-square&logo=github&logoColor=white" alt="Profilo GitHub di OPSEC4T"/>
+      </a>
     </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/d78c9924-2b4d-411b-9b42-1a184feecd17" width="200" style="border-radius:50%;" alt="Team Member 2 Avatar"/>
+    <!-- MEMBRO 2: INCIDENT -->
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/d78c9924-2b4d-411b-9b42-1a184feecd17" width="200" style="border-radius:15px;" alt="Incident Avatar"/>
       <br>
-      <b>Incident</b>
+      <img src="https://img.shields.io/badge/Incident-006400?style=for-the-badge" alt="Nome Incident"/>
       <br>
       <i>Osint Analyst</i>
+      <br>
+      <a href="URL_PROFILO_GITHUB_DI_INCIDENT">
+        <img src="https://img.shields.io/badge/GitHub%20Profile-5A5A5A?style=flat-square&logo=github&logoColor=white" alt="Profilo GitHub di Incident"/>
+      </a>
     </td>
   </tr>
   <tr align="center">
-    <td>
-      <img src="https://github.com/CyberNexus-Team/CyberNexus-Team/blob/main/AvatarR.jpg?raw=true" width="200" style="border-radius:50%;" alt="Team Member 4 Avatar"/>
+    <!-- MEMBRO 3: REBELVA -->
+    <td valign="top">
+      <img src="https://github.com/CyberNexus-Team/CyberNexus-Team/blob/main/AvatarR.jpg?raw=true" width="200" style="border-radius:15px;" alt="Rebelva Avatar"/>
       <br>
-      <b>Rebelva</b>
+      <img src="https://img.shields.io/badge/Rebelva-8B008B?style=for-the-badge" alt="Nome Rebelva"/>
       <br>
       <i>Cloud Security Engineer</i>
-    </td>
-    <td>
-      <img src="https://github.com/CyberNexus-Team/CyberNexus-Team/blob/main/AvatarG.jpg?raw=true" width="200" style="border-radius:50%;" alt="Team Member 3 Avatar"/>
       <br>
-      <b>Gloriosa</b>
+      <a href="URL_PROFILO_GITHUB_DI_REBELVA">
+        <img src="https://img.shields.io/badge/GitHub%20Profile-5A5A5A?style=flat-square&logo=github&logoColor=white" alt="Profilo GitHub di Rebelva"/>
+      </a>
+    </td>
+    <!-- MEMBRO 4: GLORIOSA -->
+    <td valign="top">
+      <img src="https://github.com/CyberNexus-Team/CyberNexus-Team/blob/main/AvatarG.jpg?raw=true" width="200" style="border-radius:15px;" alt="Gloriosa Avatar"/>
+      <br>
+      <img src="https://img.shields.io/badge/Gloriosa-FFD700?style=for-the-badge" alt="Nome Gloriosa"/>
       <br>
       <i>Incident Responder</i>
+      <br>
+      <a href="URL_PROFILO_GITHUB_DI_GLORIOSA">
+        <img src="https://img.shields.io/badge/GitHub%20Profile-5A5A5A?style=flat-square&logo=github&logoColor=white" alt="Profilo GitHub di Gloriosa"/>
+      </a>
     </td>
   </tr>
 </table>
