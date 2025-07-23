@@ -2,7 +2,8 @@
 =============================================================================================================================
  PROFILO COMPLETO - ULTIMA VERSIONE
 =============================================================================================================================
- Questa versione include la nuova sezione "INCOMING PROJECTS" e rappresenta la versione finale del profilo del team.
+ Questa versione include la nuova sezione "INCOMING PROJECTS" con lo stile a frecce e la sezione "GET IN TOUCH"
+ aggiornata come da richiesta.
 =============================================================================================================================== 
 -->
 
@@ -148,7 +149,11 @@ The system is based on n8n, an open-source automation tool, running on Docker, e
 ### GET IN TOUCH
 
 <p align="center">
-  <a href="URL_TO_YOUR_TELEGRAM_CHANNEL"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
+<i>If you have ideas for improvements, bug reports, or need support, contact us using one of the links below!</i>
+</p>
+
+<p align="center">
+  <a href="URL_TO_YOUR_TELEGRAM_CHAT"><img src="https://img.shields.io/badge/CHAT%20TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Chat"></a>
    
-  <a href="URL_TO_YOUR_WEBSITE"><img src="https://img.shields.io/badge/Website-555555?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="mailto:INDIRIZZO_EMAIL_PROTON"><img src="https://img.shields.io/badge/EMAIL%20PROTON-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail"></a>
 </p>
