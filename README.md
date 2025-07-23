@@ -1,9 +1,9 @@
 <!-- 
 =============================================================================================================================
- VERSIONE FINALE - BADGE GITHUB UNIFICATO
+ VERSIONE FINALE - SEZIONE PROGETTO AGGIORNATA
 =============================================================================================================================
- La sezione TEAM è stata aggiornata come da richiesta: il badge di GitHub è ora un elemento unico e uniforme
- per un look più pulito e professionale.
+ La sezione "CORE PROJECTS" è stata sostituita con una descrizione dettagliata del progetto "ACTIVE PROJECT" come richiesto.
+ Il testo è stato tradotto e formattato per la massima chiarezza.
 =============================================================================================================================== 
 -->
 
@@ -88,15 +88,36 @@ We believe in the power of collaboration and shared knowledge. We develop open-s
 </table>
 
 ---
-### CORE PROJECTS
+### ACTIVE PROJECT
 
-<!-- 
-Replace REPO_NAME_1 and REPO_NAME_2 with the exact names of your repositories.
--->
+<h2 align="center">NOA - N8N OSINT Automation</h2>
+
 <p align="center">
-  <a href="URL_TO_YOUR_REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberNexus-Team&repo=NOA&theme=dracula&show_owner=true" alt="Repo Card 1"></a>
-  <a href="URL_TO_YOUR_REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberNexus-Team&repo=REPO_NAME_2&theme=dracula&show_owner=true" alt="Repo Card 2"></a>
+  <!-- SOSTITUISCI CON L'URL DEL LOGO DEL PROGETTO NOA -->
+  <img src="https://github.com/CyberNexus-Team/CyberNexus-Team/blob/main/Logo%20Definitivo.png?raw=true" alt="NOA Project Logo" width="400"/>
 </p>
+
+NOA (N8N OSINT Automation) is an automated OSINT platform that allows you to perform advanced searches across several categories:
+*   **WEBINT** (Web Intelligence)
+*   **GEOINT** (Geospatial Intelligence)
+*   **IMINT** (Imagery Intelligence)
+*   **SOCMINT** (Social Media Intelligence)
+*   **HUMINT** (Human Intelligence)
+
+The system is based on n8n, an open-source automation tool, running on Docker, ensuring a simple and free installation.
+
+#### Key Features
+*   **Pre-configured Workflow:** Download the repo and import the flow into n8n to get started immediately.
+*   **Local Web Interface:** A Dockerized website communicates with n8n to send search queries.
+*   **Free API Keys:** Simply register with the supported services and enter your keys in the HTTP Request nodes.
+*   **Automated Reports:** Results are sent in a structured format to Google Drive and via email (Gmail).
+
+#### How It Works
+1.  **Setup:** Download the project from GitHub and run n8n on Docker.
+2.  **Configure:** Set up your API keys in the HTTP Request nodes (for services like Shodan, Google Maps, Twitter, etc.).
+3.  **Connect:** Link your Google Drive and Gmail accounts to receive the reports.
+4.  **Query:** Start the local web interface to enter your search queries.
+5.  **Receive:** Get your results automatically organized in a document.
 
 ---
 ### TECH STACK
