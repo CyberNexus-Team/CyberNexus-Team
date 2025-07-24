@@ -155,5 +155,5 @@ The system is based on n8n, an open-source automation tool, running on Docker, e
 <p align="center">
   <a href="URL_TO_YOUR_TELEGRAM_CHAT"><img src="https://img.shields.io/badge/CHAT%20TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Chat"></a>
    
-  <a href="mailto:INDIRIZZO_EMAIL_PROTON"><img src="https://img.shields.io/badge/EMAIL%20PROTON-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail"></a>
+  <a href="mailto:CyberNexus-Team@proton.me"><img src="https://img.shields.io/badge/EMAIL%20PROTON-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail"></a>
 </p>
