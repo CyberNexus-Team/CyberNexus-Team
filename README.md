@@ -76,7 +76,7 @@ We believe in the power of collaboration and shared knowledge. We develop open-s
     <td valign="top">
       <img src="https://github.com/CyberNexus-Team/CyberNexus-Team/blob/main/AvatarG.jpg?raw=true" width="200" style="border-radius:15px;" alt="Gloriosa Avatar"/>
       <br>
-      <img src="https://img.shields.io/badge/Gloriosa-FFD700?style=for-the-badge" alt="Nome Gloriosa"/>
+      <img src="https://img.shields.io/badge/FALQON23-FFD700?style=for-the-badge" alt="Nome Gloriosa"/>
       <br>
       <i>DFIR Analyst</i>
       <br>
