@@ -40,7 +40,7 @@ We believe in the power of collaboration and shared knowledge. We develop open-s
       <br>
       <img src="https://img.shields.io/badge/OPSEC4T-00B2EE?style=for-the-badge" alt="Nome OPSEC4T"/>
       <br>
-      <i>Digital Forensics & Osint Analyst</i>
+      <i>DF & Osint Analyst</i>
       <br>
       <a href="https://github.com/OPSEC4T">
         <img src="https://img.shields.io/badge/GitHub%20Profile-5A5A5A?style=flat-square&logo=github&logoColor=white" alt="Profilo GitHub di OPSEC4T"/>
@@ -52,7 +52,7 @@ We believe in the power of collaboration and shared knowledge. We develop open-s
       <br>
       <img src="https://img.shields.io/badge/Incident-006400?style=for-the-badge" alt="Nome Incident"/>
       <br>
-      <i>Osint Analyst & Full Stack Developer</i>
+      <i>Osint Analyst</i>
       <br>
       <a href="URL_PROFILO_GITHUB_DI_INCIDENT">
         <img src="https://img.shields.io/badge/GitHub%20Profile-5A5A5A?style=flat-square&logo=github&logoColor=white" alt="Profilo GitHub di Incident"/>
