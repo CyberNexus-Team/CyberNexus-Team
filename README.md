@@ -40,9 +40,9 @@ We believe in the power of collaboration and shared knowledge. We develop open-s
       <br>
       <img src="https://img.shields.io/badge/OPSEC4T-00B2EE?style=for-the-badge" alt="Nome OPSEC4T"/>
       <br>
-      <i>Osint Analyst</i>
+      <i>Digital Forensics & Osint Analyst</i>
       <br>
-      <a href="URL_PROFILO_GITHUB_DI_OPSEC4T">
+      <a href="https://github.com/OPSEC4T">
         <img src="https://img.shields.io/badge/GitHub%20Profile-5A5A5A?style=flat-square&logo=github&logoColor=white" alt="Profilo GitHub di OPSEC4T"/>
       </a>
     </td>
@@ -64,11 +64,11 @@ We believe in the power of collaboration and shared knowledge. We develop open-s
     <td valign="top">
       <img src="https://github.com/CyberNexus-Team/CyberNexus-Team/blob/main/AvatarR.jpg?raw=true" width="200" style="border-radius:15px;" alt="Rebelva Avatar"/>
       <br>
-      <img src="https://img.shields.io/badge/Rebelva-8B008B?style=for-the-badge" alt="Nome Rebelva"/>
+      <img src="https://img.shields.io/badge/LYK0S-8B008B?style=for-the-badge" alt="Nome Rebelva"/>
       <br>
-      <i>Cloud Security Engineer</i>
+      <i> DFIR & Osint Analyst</i>
       <br>
-      <a href="URL_PROFILO_GITHUB_DI_REBELVA">
+      <a href="https://github.com/LYK-0S">
         <img src="https://img.shields.io/badge/GitHub%20Profile-5A5A5A?style=flat-square&logo=github&logoColor=white" alt="Profilo GitHub di Rebelva"/>
       </a>
     </td>
@@ -78,9 +78,9 @@ We believe in the power of collaboration and shared knowledge. We develop open-s
       <br>
       <img src="https://img.shields.io/badge/Gloriosa-FFD700?style=for-the-badge" alt="Nome Gloriosa"/>
       <br>
-      <i>Incident Responder</i>
+      <i>DFIR Analyst</i>
       <br>
-      <a href="URL_PROFILO_GITHUB_DI_GLORIOSA">
+      <a href="https://github.com/falqon23">
         <img src="https://img.shields.io/badge/GitHub%20Profile-5A5A5A?style=flat-square&logo=github&logoColor=white" alt="Profilo GitHub di Gloriosa"/>
       </a>
     </td>
