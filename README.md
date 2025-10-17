@@ -112,7 +112,7 @@ The system is based on n8n, an open-source automation tool, running on Docker, e
 
 ### How It Works
 1.  **Setup:** Download the project from GitHub and run n8n on Docker.
-2.  **Configure:** Set up your API keys in the HTTP Request nodes (for services like Shodan, Google Maps, Twitter, etc.).
+2.  **Configure:** Set up your API keys in UI
 3.  **Connect:** Link your Google Drive and Gmail accounts to receive the reports.
 4.  **Query:** Start the local web interface to enter your search queries.
 5.  **Receive:** Get your results automatically organized in a document.
