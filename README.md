@@ -110,12 +110,6 @@ The system is based on n8n, an open-source automation tool, running on Docker, e
 *   **Free API Keys:** Simply register with the supported services and enter your keys in the HTTP Request nodes.
 *   **Automated Reports:** Results are sent in a structured format to Google Drive and via email (Gmail).
 
-### How It Works
-1.  **Setup:** Download the project from GitHub and run n8n on Docker.
-2.  **Configure:** Set up your API keys in UI
-3.  **Connect:** Link your Google Drive and Gmail accounts to receive the reports.
-4.  **Query:** Start the local web interface to enter your search queries.
-5.  **Receive:** Get your results automatically organized in a document.
 
 ### Links
 <p>
