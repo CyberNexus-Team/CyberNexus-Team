@@ -46,20 +46,6 @@ We believe in the power of collaboration and shared knowledge. We develop open-s
         <img src="https://img.shields.io/badge/GitHub%20Profile-5A5A5A?style=flat-square&logo=github&logoColor=white" alt="Profilo GitHub di OPSEC4T"/>
       </a>
     </td>
-    <!-- MEMBRO 2: INCIDENT -->
-    <td valign="top">
-      <img src="https://github.com/user-attachments/assets/d78c9924-2b4d-411b-9b42-1a184feecd17" width="200" style="border-radius:15px;" alt="Incident Avatar"/>
-      <br>
-      <img src="https://img.shields.io/badge/Incident-006400?style=for-the-badge" alt="Nome Incident"/>
-      <br>
-      <i>Osint Analyst</i>
-      <br>
-      <a href="URL_PROFILO_GITHUB_DI_INCIDENT">
-        <img src="https://img.shields.io/badge/GitHub%20Profile-5A5A5A?style=flat-square&logo=github&logoColor=white" alt="Profilo GitHub di Incident"/>
-      </a>
-    </td>
-  </tr>
-  <tr align="center">
     <!-- MEMBRO 3: REBELVA -->
     <td valign="top">
       <img src="https://github.com/CyberNexus-Team/CyberNexus-Team/blob/main/AvatarR.jpg?raw=true" width="200" style="border-radius:15px;" alt="Rebelva Avatar"/>
