@@ -93,8 +93,8 @@ The system is based on n8n, an open-source automation tool, running on Docker, e
 ### Key Features
 *   **Pre-configured Workflow:** Download the repo and import the flow into n8n to get started immediately.
 *   **Local Web Interface:** A Dockerized website communicates with n8n to send search queries.
-*   **Free API Keys:** Simply register with the supported services and enter your keys in the HTTP Request nodes.
-*   **Automated Reports:** Results are sent in a structured format to Google Drive and via email (Gmail).
+*   **Free API Keys:** Simply register for the supported services and enter the keys in the NOA APIKEY web section.
+*   **Automated Reports:** The reports are available in the NOA/reports folder in HTML format and can be downloaded in PDF and DOCX formats or printed.
 
 
 ### Links
